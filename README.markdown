@@ -78,7 +78,8 @@ On Windows, you would do the following in the git bash:
     #
     $ cd /c/Users/your_username
     $ pik install ruby 1.8.7
-    $ gem install bundler
+    $ pik gem install bundler
+    $ pik use ruby 1.8.7
 
 Usage
 -----
